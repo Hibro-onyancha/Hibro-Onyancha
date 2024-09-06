@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hibro Onyancha</h1>
+
 <h3 align="center">Native to Kenya, Fluent in Android. Crafting Apps with a Touch of African Innovation!🌍📱</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hibro-onyancha&label=Profile%20views&color=0e75b6&style=flat" alt="hibro-onyancha" /> </p>
