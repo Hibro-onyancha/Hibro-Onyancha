@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Hibro Onyancha</h1>
+<h1 align="center">The name is Hibro Hibro Onyancha</h1>
 
 <h3 align="center">Native to Kenya, Fluent in Android. Crafting Apps with a Touch of African Innovation!🌍📱</h3>
 
